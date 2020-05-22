@@ -2,9 +2,7 @@
 title: Costa Coffee Rocky Road
 date: 2020-05-22T15:31:52.262Z
 tags:
-  - demo-content
-  - simple-post
-  - blog
+  - cake
 ---
 ### Ingredients you’ll need
 
