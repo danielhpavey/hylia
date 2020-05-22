@@ -1,28 +1,34 @@
 ---
-title: A simple post
-date: '2019-06-18'
+title: Costa Coffee Rocky Road
+date: 2020-05-22T15:31:52.262Z
 tags:
   - demo-content
   - simple-post
   - blog
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+### Ingredients you’ll need
 
-How about a `<blockquote>`?
+* 18cm square tin lined with baking paper
+* 200g digestive or rich tea biscuits 
+* 135g butter or vegan spread 
+* 200g dark chocolate 
+* 2-3 tbsp golden syrup 
+* 100g mini marshmallows (or vegan alternative) 
+* Icing sugar to dust
+* Finally, go wild with 100g of any type of dried fruit, glacé cherries, chopped nuts, honeycomb or popcorn. Yum.
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+### Ready to rock? Let's get mixing
 
-A list of stuff:
+![](/images/costawithyou-feel-good-fix-rockyroad-684x400.jpg)
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+**Step 1**: Place the biscuits into a freezer bag and bash with a rolling pin. Be careful not to break up too much as you will want some larger pieces not just crumbs.
 
-How about an ordered list of stuff:
+**Step 2**: Gently melt the butter or margarine in a large saucepan. Break up the chocolate and add along with the golden syrup. Keep the heat very low and stir constantly until everything is combined and the chocolate has totally melted. Leave to cool in the pan.
 
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
+**Step 3**: Add all the ingredients into the cooled chocolate mixture and stir until everything is coated.
 
+**Step 4**: Tip the mixture into the lined tin and spread out. Chill for at least 2 hours (it'll be worth the wait, trust us).
 
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+**Step 5:** Remove from the tin and place on a board. Remove the paper lining, dust with icing sugar and cut into bars.
+
+[Source](https://www.costa.co.uk/withyou/weekly-catch-up/feel-good-fix-recipe?utm_source=CostaWithYouNewsLetter_wk7&utm_medium=email&utm_campaign=19052020)
