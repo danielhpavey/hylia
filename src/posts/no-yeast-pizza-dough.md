@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: No yeast pizza dough
+title: No yeast pizza dough 🍕
 metaTitle: No yeast pizza dough
 date: 2020-05-22T15:41:14.976Z
 tags:
