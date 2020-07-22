@@ -12,4 +12,5 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/basic-seitan-wheat-meat-vegan-meat-substitute.md
 - src/posts/quick-pizza-dough.md
